@@ -33,7 +33,7 @@ The above example gets parsed and turned into three normal Game Maker script fil
 
 ## Getting Started
 1.  Download Sublime Text 2 or Sublime Text 3.
-2.  Download this git repo zip.
+2.  Download [this git repo zip](https://github.com/horsman/gmlx/archive/master.zip).
 3.  Unzip the repo
 4.  Copy the GMLX folder inside to %APPDATA%\Sublime Text 2\Packages\ (usually C:\Users\USERNAME\AppData\Roaming\Sublime Text 2\Packages)
 5.  In your Game Maker Project Folder (.GMK) make a directory called GMLX 
