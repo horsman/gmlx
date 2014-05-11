@@ -28,6 +28,8 @@ function test(){
   }
 }
 ```
+The above example gets parsed and turned into three normal Game Maker script files and your project file gets updated accordingly. Warning: this can and will overwrite script files with the same name as the functions here. Always back up your project before starting with GMLX, since it is still in alpha and might break things!
+
 
 ## Getting Started
 1.  Download Sublime Text 2 or Sublime Text 3.
