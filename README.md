@@ -3,7 +3,7 @@
 
 ## Example
 sample.gmlx
-```
+```gml
 # define a new datatype called Food and give default values.
 # gmlx structs need to give default values.
 # you can also put any other code for initialization in there you want.
