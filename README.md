@@ -3,10 +3,10 @@
 
 ## Example
 sample.gmlx
-```
-# define a new datatype called Food and give default values.
-# gmlx structs need to give default values.
-# you can also put any other code for initialization in there you want.
+```javascript
+// define a new datatype called Food and give default values.
+// gmlx structs need to give default values.
+// you can also put any other code for initialization in there you want.
 struct Food{
   give_food = 22;
   name = "coffee";
@@ -14,14 +14,14 @@ struct Food{
   
 }
 
-# define a new function. It can be called from any script just like normal .gml scripts
+// define a new function. It can be called from any script just like normal .gml scripts
 function decrease_nutrition(amount){
   self.give_food = self.give_food - amount;
 }
 
-# this function demonstrates creating a new Food struct and
-# calling a function on it with an argument. Use this style 
-# to simulate object oriented programming
+// this function demonstrates creating a new Food struct and
+// calling a function on it with an argument. Use this style 
+// to simulate object oriented programming
 function test(){
   var coffee = new Food();
   with(coffee){
