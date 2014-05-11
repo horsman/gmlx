@@ -36,6 +36,7 @@ function test(){
 4.  Copy the GMLX folder inside to %APPDATA%\Sublime Text 2\Packages\ (usually C:\Users\USERNAME\AppData\Roaming\Sublime Text 2\Packages)
 5.  In your Game Maker Project Folder (.GMK) make a directory called GMLX 
 6.  Create HelloWorld.gmlx in that folder with Sublime Text and put the following code:
+
         function test_gmlx(){
           show_message("Hello World")
         }
