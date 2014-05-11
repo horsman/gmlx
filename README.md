@@ -29,5 +29,22 @@ function test(){
 }
 ```
 
+## Getting Started
+1.  Download Sublime Text 2 or Sublime Text 3.
+2.  Download this git repo zip.
+3.  Unzip the repo
+4.  Copy the GMLX folder inside to %APPDATA%\Sublime Text 2\Packages\ (usually C:\Users\USERNAME\AppData\Roaming\Sublime Text 2\Packages)
+5.  In your Game Maker Project Folder (.GMK) make a directory called GMLX 
+6.  Create HelloWorld.gmlx in that folder with Sublime Text and put the following code:
+        function test_gmlx(){
+          show_message("Hello World")
+        }
+7.  From the Sublime Text Tools menu choose Build System > GMLX
+8.  Build HelloWorld.gmlx with Ctrl-B when it is open in Sublime Text
+9.  Open or switch to your Game Maker Project to see if test_gmlx shows up in your scripts
+10.  Call text_gmlx as you would any other script to test
+
+
+
 ## Version History
 * 0.1a [2014-5-11]: first release. 
