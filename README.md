@@ -11,7 +11,6 @@ struct Food{
   give_food = 22;
   name = "coffee";
   effects = "stimulant";
-  
 }
 
 // define a new function. It can be called from any script just like normal .gml scripts
