@@ -51,3 +51,6 @@ The above example gets parsed and turned into three normal Game Maker script fil
 
 ## Version History
 * 0.1a [2014-5-11]: first release. 
+
+## Roadmap
+* 0.1b: member function convenience syntax, dictionary and list literals ( {a:1 b:2} and [a, b, c] ), better struct syntax.
