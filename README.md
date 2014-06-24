@@ -33,7 +33,7 @@ The above example gets parsed and turned into three normal Game Maker script fil
 
 ## Getting Started
 1.  Download Sublime Text 2 or Sublime Text 3.
-2.  Download and install Python 2.7
+2.  Download and install Python 2.7 and [add the python folder to your path](http://stackoverflow.com/a/6318188).
 3.  Download [this git repo zip](https://github.com/horsman/gmlx/archive/master.zip).
 4.  Unzip the repo
 5.  Copy the GMLX folder inside to %APPDATA%\Sublime Text 2\Packages\ (usually C:\Users\USERNAME\AppData\Roaming\Sublime Text 2\Packages)
