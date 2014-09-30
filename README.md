@@ -1,5 +1,5 @@
 # gmlx
-*Game Maker Language Extensions* brings more structured programming support to Game Maker: Studio, including support for defining multiple functions per file and new datatypes. GMLX accomplishes this task by translating .gmlx files you code in an external text editor into standard .gml files and updating your Game Maker project file. Game Maker will automatically reload your scripts resulting in a seemless coding experience.
+*Game Maker Language Extensions* brings more structured programming support to Game Maker: Studio, including support for defining multiple functions per file and new datatypes. GMLX accomplishes this task by translating .gmlx files you code in an external text editor into standard .gml files and updating your Game Maker project file. Game Maker will automatically reload your scripts resulting in a seamless coding experience.
 
 ## Example
 sample.gmlx
