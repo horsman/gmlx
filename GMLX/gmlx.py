@@ -72,7 +72,7 @@ def parse_function(text):
 		raise Exception("No Function Argument List ( for:"+text[:40]);
 
 def getBetweenBalanced(text, leftCharacter, rightCharacter):
-	text = text.lstrip(leftCharacter)
+	text = text.lstrip().lstrip(leftCharacter)
 	count = 1
 	index = 0
 	while(count):
